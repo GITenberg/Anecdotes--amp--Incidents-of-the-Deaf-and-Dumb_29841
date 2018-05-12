@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34207'
     url: http://www.gutenberg.org/2009/agents/34207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29841#Anecdotes--amp--Incidents-of-the-Deaf-and-Dumb
 gutenberg_issued: '2009-08-29'
 gutenberg_type: Text
 identifiers:
