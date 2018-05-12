@@ -1,0 +1,25 @@
+_repo: Anecdotes--amp--Incidents-of-the-Deaf-and-Dumb_29841
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29841-h/images/ill-000cover.jpg
+creator:
+  author:
+    agent_name: Roe, W. R. (William Robert)
+    alias: Roe, William Robert
+    gutenberg_agent_id: '34207'
+    url: http://www.gutenberg.org/2009/agents/34207
+description: ''
+gutenberg_issued: '2009-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Deaf'
+- !lcc 'HV'
+title: Anecdotes & Incidents of the Deaf and Dumb
+url: http://www.gutenberg.org/ebooks/29841
